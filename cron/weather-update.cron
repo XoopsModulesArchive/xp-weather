@@ -1,0 +1,1 @@
+55 * * * * /usr/bin/wget -a /dev/null -O /dev/null http://yoursitehere/modules/xp-weather/cron/update_cache.php

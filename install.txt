@@ -1,0 +1,52 @@
+XP-Weather for xoops rc3
+
+Version 1.4 by davidd
+	- Integrated Dutch, Spanish, and German language translation files.
+	- added block configuration edit functions.
+
+Version 1.3a by GIR / Take13.net
+	- Same as 1.3a
+	- On a linux system edit weather-update.cron in your XP-Weather/cron directory
+	    change the following to your site:
+	    http://yoursitehere/modules/XP-Weather/cron/update_cache.php
+	- Place a crontab on weather-update.cron by typing:
+	    ./crontab weather-update.cron
+
+Version 1.3 by davidd
+	- same as 1.1, english is the only supported mysql file right now.
+	- if you are behind a firewall, edit include/config.php setting the proxy_ variables.
+	- the proxy settings are not tested so this is still experimental code.
+
+Version 1.1 by davidd
+
+installation 1.1:
+
+    - unzip file to modules directory
+    - choose mysql.sql file in sql directory for the language you are using (English default)
+    - add to site from admin module control panel
+    - config.php file contains cache_time variable for setting the time-to-live on the cache data.
+	The default is set to 1 hour.  If set to -1 the cache will never be re-freshed.  There is
+	the start of a cron job to refresh the cache in the cron directory.
+
+Upgrade:
+    - deactivate and un-install old version of XP-Weather module from the admin control panel.
+	WARNING!!! - un-installing the old version xp-weather will cause any data you have added to the
+	xp-weather tables to be lost.  If you wish to keep that data perform a backup first and re-apply
+	the changes after the upgrade.
+    - replace contents of modules/XP-Weather with the latest version.
+    - install and activate the new XP-Weather module version from the admin control panel.
+
+
+
+NOTICE:
+    - Don't forget to set the cache directory and files for reading and writting by the webserver account.
+    - images are located in image/fresh.  There are large and small directories with other images as well.
+	copy them to the fresh directory replacing a file there and the new one will be used.
+
+    - There are images with -FR after them that indicate the image has French text.
+
+
+    °Uploader le module XP-Weather dans le répertoire http:votresite.com/modules de votre xoop.
+    °Accorder des droits, CHMOD 777, au repertoire http:votresite.com/modules/XP-Weather/cache
+    °Loggez-vous comme admin et activer le module.
+

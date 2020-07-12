@@ -1,0 +1,18 @@
+<center><b>Toronto,Ontario</b></center>
+<center><a href="http://192.168.0.1/xoops/modules/xp-weather/change.php"><small>Changer les param&egrave;tres</small></A></center>
+<center><table><tr><td align="center">
+<small><b>Conditions actuelles</b></small>
+<table cellspacing="2" cellpadding="2">
+<tr><td align="center" valign="top"><small>Partly Cloudy</small>
+<br/><br/><small>Vent:</small>
+</td><td align="center" valign="top"><a href="http://192.168.0.1/xoops/modules/xp-weather/index.php"><img src="http://192.168.0.1/xoops/modules/xp-weather/images/french/30.gif" border="0"></a>
+</td><td align="center" valign="top"><small> -11&deg;C</small>
+<br/><br/><small> W </small><small>16 km/h</small>
+</td></tr><tr><td align="center" colspan="3">
+<small>Sentation N/A</small>
+</td></tr></table>
+</td></tr><tr>
+<td align="center"><a href="http://192.168.0.1/xoops/modules/xp-weather/index.php">Pr&eacute;visions d&eacute;taill&eacute;es...</a>
+</td></tr><tr><td align="center"><small>Derni&egrave;re mise &agrave; jour:  01/23/2004</small>
+</td></tr></table>
+</center>

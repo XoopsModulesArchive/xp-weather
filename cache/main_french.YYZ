@@ -1,0 +1,58 @@
+<h4><b>Pr&eacute;visions détaill&eacute;es</b></h4>
+R&eacute;gion: Canada<br>
+<b>Toronto, Ontario Canada</b> [<a href="change.php"><small>Changer les param&egrave;tres</small></a>]
+<hr><table cellpadding="4" cellspacing="0" border="0"><tr><td valign="top">
+<img src="images/french/current_cond.gif" align="top" alt="Conditions actuelles">
+<font face="Arial" color="red" size="">-11&deg;C</font> 
+<img src="images/french/30.gif" align="center"><br>
+</td><td><table cellpadding="4" cellspacing="0" border="0"><tr><td>
+Vent: W 16 km/h</td><td>
+Barom&egrave;tre: 1014 mbar </td><td>
+Humidit&eacute;: 50%</td></tr><tr><td>Partly Cloudy</td><td>
+Pression: 1014 mbar </td></tr><tr><td>
+UV: 1</td><td>
+Sentation: N/A</td><td>
+Visibilit&eacute;: illimité</td></tr>
+</table></td></tr></table><br><table cellpadding="4" cellspacing="0" border="0">
+<tr><td valign="top" align="center"><img src="images/french/forecast.gif" alt="Pr&eacute;visions &agrave; cinq jours"></td><td>&nbsp;</td><td align="center">
+Sam<br><img src="images/french/30.gif"></td><td align="center">
+Dim<br><img src="images/french/30.gif"></td><td align="center">
+Lun<br><img src="images/french/14.gif"></td><td align="center">
+Mar<br><img src="images/french/16.gif"></td><td align="center">
+Mer<br><img src="images/french/14.gif"></td></tr>
+<tr><td>&nbsp;</td><td colspan="6"><hr></td></tr>
+<tr><td>&nbsp;</td><td><font face="Arial" color="red" size="">Haute:</font></td><td align="center">
+<font face="Arial" color="red" size="">-11&deg;C</font></td><td align="center">
+<font face="Arial" color="red" size="">-10&deg;C</font></td><td align="center">
+<font face="Arial" color="red" size="">-5&deg;C</font></td><td align="center">
+<font face="Arial" color="red" size="">-2&deg;C</font></td><td align="center">
+<font face="Arial" color="red" size="">-6&deg;C</font></td></tr>
+<tr><td>&nbsp;</td><td colspan="6"><hr></td></tr>
+<tr><td>&nbsp;</td><td>Basse:</td><td align="center">
+-17&deg;C</td><td align="center">
+-14&deg;C</td><td align="center">
+-9&deg;C</td><td align="center">
+-6&deg;C</td><td align="center">
+-13&deg;C</td</tr>
+<tr><td>&nbsp;</td><td colspan="6"><hr></td></tr>
+<tr><td>&nbsp;</td><td>Pr&eacute;cipitations:</td><td align="center">
+20%</td><td align="center">
+10%</td><td align="center">
+60%</td><td align="center">
+60%</td><td align="center">
+40%
+</td></tr></table><hr><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td align="center">
+<TABLE cellspacing="1" cellpadding="1"  class="head"><TR class="even"><TD>
+<B><small>Param&egrave;tres actuels:</small></B> 
+<TD><a href="change.php"><small>Changer les param&egrave;tres</small></a>
+</TD><TR class="even"><TD><b><small>R&eacute;gion:</small></b></TD><TD><small>Canada</small></TD></TR><TR class="even"><TD>
+<b><small>Pays:</small></b></TD><TD><small>Canada</small></TD></TR><TR class="even"><TD>
+<b><small>Sous-division:</small></b></TD><TD><small>Toronto, Ontario Canada</small></TD></TR><TR class="even"><TD>
+<b><small>Ville:</small></b></TD><TD><small>Toronto (CAXX0504)</small></TD></TR><TR class="even"><TD>
+<b><small>Temp&eacute;rature:</small></b></TD><TD><small>-11&deg;C</small></TD></TR><TR class="even"><TD>
+<b><small>Vitesse du vent:</small></b></TD><TD><small>16 km/h</small></TD></TR></TABLE>
+</TD>
+<TD WIDTH="72" VALIGN=top><center><b>Radar</b><a href="http://msnbc.accuweather.com/msnbc/msnbc_qx01/YYZ/radar/?accuid=YYZ" target="_blank"><img src="images/radar.gif" width="62" height="64" ALT="Radar"></a></center></TD>
+<TD WIDTH="72" VALIGN=top><center><b>Satellite</b><a href="http://msnbc.accuweather.com/msnbc/msnbc_qx01/YYZ/sat/?accuid=YYZ" target="_blank"><img src="images/satellite.gif" width="62" height="64" ALT="Satellite"></a></center></TD>
+<TD WIDTH="72" VALIGN=top><center><b>Pr&eacute;cipitations</b><a href="http://msnbc.accuweather.com/msnbc/msnbc_qx01/YYZ/precip/?accuid=YYZ" target="_blank"><img src="images/precipitation.gif" width="62" height="64" ALT="Pr&eacute;cipitations"></a></center></TD>
+</TR></TABLE>
